@@ -1,0 +1,14 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 18,
+    "python.dataScience.alwaysTrustNotebooks": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.codeActionsOnSave": null,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ $fileName -o C:/Documents/Github/PAT/bin/$fileNameWithoutExt && C:/Documents/Github/PAT/bin/$fileNameWithoutExt",
+    }
+}
